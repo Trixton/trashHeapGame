@@ -7,6 +7,7 @@ TagManager:
   - chest
   - gloves
   - armor
+  - gravity
   layers:
   - Default
   - TransparentFX
